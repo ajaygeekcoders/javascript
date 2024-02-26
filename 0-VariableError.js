@@ -84,4 +84,4 @@
 
 // Case - 5
 const name = 'Ajay';
-name = 'Pallu'; // TypeError: Assignment to constant variable.
+name = 'Anshul'; // TypeError: Assignment to constant variable.

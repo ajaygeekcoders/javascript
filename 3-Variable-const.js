@@ -13,7 +13,7 @@ console.log(name);
 
 //  Cannot redeclare block-scoped variable 'name'.
 // Syntax Error - Identifier 'name' has already been declared
-// const name = 'Pallavi'; // redeclare variable not possible - Error thrown -
+// const name = 'Anshul'; // redeclare variable not possible - Error thrown -
 // console.log(name); 
 
 // const address = 'noida';
@@ -23,8 +23,8 @@ console.log(name);
 
 function get(){
     // it's a function scope variable. only available inside function
-    const name = 'Nidhi';
-    const data = 'Sahay';
+    const name = 'Anshul';
+    const data = 'Dubey';
 }
 
 get();

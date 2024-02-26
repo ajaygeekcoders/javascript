@@ -11,7 +11,7 @@
 var name = 'Ajay';
 console.log(name);
 
-var name = 'Pallavi'; // redeclare variable
+var name = 'Anshul'; // redeclare variable
 console.log(name); 
 
 var address = 'noida';
@@ -19,14 +19,14 @@ address = 'Greater Noida'; // reassigment value
 
 console.log(address);
 
-lastname = 'Sahay'
+lastname = 'Dubey'
 
 console.log(lastname);
 
 function get(){
     // it's a function scope variable. only available inside function
-    var name = 'Nidhi';
-    var data = 'Sahay';
+    var name = 'Anshul';
+    var data = 'Dubey';
 }
 
 get();
